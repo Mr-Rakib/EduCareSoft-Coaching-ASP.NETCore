@@ -1,0 +1,17 @@
+------------------Edu Care Soft Coaching Version-----------------
+
+#First import edsc.sql into your MySql Database.
+#Chnage database Connection String from appsettings.json file.
+
+#Token Generate 
+hit : /token (get/post) any method
+
+go-to body and select x-www-form-urlencoded
+-------------------------------------------
+	Superadmin Account 
+
+	username 	: mwl
+	password 	: 123456
+	grant_trype 	: password
+
+#Get the access token and use it as Authorization Bearer Token 

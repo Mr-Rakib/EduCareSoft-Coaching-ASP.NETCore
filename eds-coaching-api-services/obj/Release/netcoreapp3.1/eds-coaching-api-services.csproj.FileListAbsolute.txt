@@ -1,0 +1,405 @@
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\appsettings.Development.json
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\appsettings.json
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.exe
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.deps.json
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.runtimeconfig.json
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.runtimeconfig.dev.json
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.pdb
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\MySql.Data.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csprojAssemblyReference.cache
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csproj.CoreCompileInputs.cache
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.MvcApplicationPartsAssemblyInfo.cs
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.MvcApplicationPartsAssemblyInfo.cache
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.AssemblyInfoInputs.cache
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.AssemblyInfo.cs
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.RazorTargetAssemblyInfo.cache
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csproj.CopyComplete
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\staticwebassets\eds-coaching-api-services.StaticWebAssets.Manifest.cache
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\staticwebassets\eds-coaching-api-services.StaticWebAssets.xml
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.dll
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.pdb
+R:\Match Wheel Ltd\Softwares\EDS Coaching\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.genruntimeconfig.cache
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\appsettings.json
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.exe
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.deps.json
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.runtimeconfig.json
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.runtimeconfig.dev.json
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.pdb
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\MySql.Data.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csprojAssemblyReference.cache
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\staticwebassets\eds-coaching-api-services.StaticWebAssets.Manifest.cache
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\staticwebassets\eds-coaching-api-services.StaticWebAssets.xml
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.MvcApplicationPartsAssemblyInfo.cs
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.MvcApplicationPartsAssemblyInfo.cache
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.AssemblyInfoInputs.cache
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.AssemblyInfo.cs
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.RazorTargetAssemblyInfo.cache
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csproj.CopyComplete
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.dll
+E:\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.pdb
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\appsettings.json
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.exe
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.deps.json
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.runtimeconfig.json
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.runtimeconfig.dev.json
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\eds-coaching-api-services.pdb
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\MoreLinq.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\MySql.Data.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csprojAssemblyReference.cache
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.AssemblyInfoInputs.cache
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.AssemblyInfo.cs
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csproj.CoreCompileInputs.cache
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.MvcApplicationPartsAssemblyInfo.cs
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.MvcApplicationPartsAssemblyInfo.cache
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.RazorTargetAssemblyInfo.cache
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.csproj.CopyComplete
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\staticwebassets\eds-coaching-api-services.StaticWebAssets.Manifest.cache
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\staticwebassets\eds-coaching-api-services.StaticWebAssets.xml
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.dll
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.pdb
+E:\Match Wheel Limited\Bitbucket\EduCareSoft\esc-coaching\eds-coaching-api-services\obj\Release\netcoreapp3.1\eds-coaching-api-services.genruntimeconfig.cache
